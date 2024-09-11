@@ -1,4 +1,4 @@
-# Operating System Algorithm Project
+# ✨ Operating System Algorithm Project
 Developed a Windows Form application using Visual Studio 2019 and .NET Framework, implementing the Round Robin scheduling algorithm and Best Fit memory allocation algorithm in C++.
 
 Utilized data structures and problem-solving skills to optimize CPU and memory management in the GUI-based project.
