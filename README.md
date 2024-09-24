@@ -1,6 +1,6 @@
 # ✨ CPU & Memory Management Simulator
 
-**CPU & Memory Management Simulator** is a Windows Form application developed using **Visual Studio 2019** and **.NET Framework**. The application implements the **Round Robin scheduling algorithm** and the **Best Fit memory allocation algorithm** in **C++** to simulate and optimize CPU task scheduling and memory allocation.
+**CPU & Memory Management Simulator** is a Windows Form application developed using **Visual Studio 2019** and **.NET Framework**. The application implements the **Round Robin scheduling algorithm** and the **Best Fit memory allocation algorithm** in **C#** to simulate and optimize CPU task scheduling and memory allocation.
 
 ## Features
 
@@ -15,7 +15,7 @@
 ## Technologies Used
 
 - **Frontend**: Windows Forms (C#) for creating the graphical user interface (GUI).
-- **Backend**: C++ for implementing scheduling and memory management algorithms.
+- **Backend**: C# for implementing scheduling and memory management algorithms.
 - **IDE**: Visual Studio 2019
 - **Framework**: .NET Framework
 
@@ -24,7 +24,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/cpu-memory-management-simulator.git
-
+   
 ## Contributing
 Feel free to contribute to this project by forking the repository and submitting pull requests.
 
